@@ -2,7 +2,7 @@
 
 This is my website (powered by Github Pages™ (powered by Jekyll™ (powered by Ruby™ (oh no...)))).
 
-### So what is this website for?
+### So, what is this website for?
 
 One day it will be my résumé alas that day is not upon us - woe is you, oh weary internet traveller.
 
@@ -18,7 +18,15 @@ Well, maybe I'll write a little about myself and stuff. I suppose that would mak
 
 Can't you just be content with a résumé? Geez.
 
-Additionally, then, I imagine I'll link to various social media accounts. After all that seems to be a pretty personal website-y thing to do?
+Additionally, then, I imagine I'll link to various social media accounts.
+
+After all that seems to be a pretty personal website-y thing to do?
+
+### I desire more...
+
+There's no pleasing you.
+
+Okay, fine. I'll also probably maybe possibly conceivably perhaps write about stuff too on occasions never always sometimes.
 
 ## Yeah, I have no idea...
 
